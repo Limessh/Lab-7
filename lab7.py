@@ -1,4 +1,4 @@
-# Основные задания в одной программе
+# Основные задания в одной программе (доп. задание в файле 7.3)
 import requests
 from datetime import datetime, timezone
 
